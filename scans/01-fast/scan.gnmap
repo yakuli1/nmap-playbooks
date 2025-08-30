@@ -1,0 +1,4 @@
+# Nmap 7.80 scan initiated Thu Aug 28 13:59:42 2025 as: "C:\\Program Files (x86)\\Nmap\\nmap.exe" -F -oA C:\\Users\\yakul\\nmap-playbooks\\scans\\01-fast\\scan scanme.nmap.org
+Host: 45.33.32.156 (scanme.nmap.org)	Status: Up
+Host: 45.33.32.156 (scanme.nmap.org)	Ports: 22/open/tcp//ssh///, 25/filtered/tcp//smtp///, 80/open/tcp//http///	Ignored State: closed (97)
+# Nmap done at Thu Aug 28 13:59:45 2025 -- 1 IP address (1 host up) scanned in 3.31 seconds

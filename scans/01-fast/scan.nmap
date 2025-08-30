@@ -1,0 +1,10 @@
+# Nmap 7.80 scan initiated Thu Aug 28 13:59:42 2025 as: "C:\\Program Files (x86)\\Nmap\\nmap.exe" -F -oA C:\\Users\\yakul\\nmap-playbooks\\scans\\01-fast\\scan scanme.nmap.org
+Nmap scan report for scanme.nmap.org (45.33.32.156)
+Host is up (0.21s latency).
+Not shown: 97 closed ports
+PORT   STATE    SERVICE
+22/tcp open     ssh
+25/tcp filtered smtp
+80/tcp open     http
+
+# Nmap done at Thu Aug 28 13:59:45 2025 -- 1 IP address (1 host up) scanned in 3.31 seconds

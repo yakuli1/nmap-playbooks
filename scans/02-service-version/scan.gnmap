@@ -1,0 +1,4 @@
+# Nmap 7.80 scan initiated Thu Aug 28 18:17:33 2025 as: "C:\\Program Files (x86)\\Nmap\\nmap.exe" -sV -oA C:\\Users\\yakul\\nmap-playbooks\\scans\\02-service-version\\scan scanme.nmap.org
+Host: 45.33.32.156 (scanme.nmap.org)	Status: Up
+Host: 45.33.32.156 (scanme.nmap.org)	Ports: 22/open/tcp//ssh//OpenSSH 6.6.1p1 Ubuntu 2ubuntu2.13 (Ubuntu Linux; protocol 2.0)/, 25/filtered/tcp//smtp///, 80/open/tcp//tcpwrapped///, 9929/open/tcp//tcpwrapped///, 31337/open/tcp//tcpwrapped///	Ignored State: closed (995)
+# Nmap done at Thu Aug 28 18:17:47 2025 -- 1 IP address (1 host up) scanned in 14.53 seconds
